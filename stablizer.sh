@@ -26,9 +26,11 @@ sleep 1.5;
 
 xdotool type "reset";
 xdotool key Return;
+xdotool key Return;
 sleep 2;
 
-xdotool type "stty rows 24 columns 103";
+xdotool type "stty rows 40 columns 150";
+xdotool key Return;
 xdotool key Return;
 
 sleep 1.5
