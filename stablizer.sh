@@ -6,7 +6,7 @@
 # Instructions
 # 1. Put this file anywhere in non-root $PATH
 # 2. Map this script with some keyboard combination like alt+s to execute this.
-# After getting any shell on netcat. just hit alt+s. and shell will be stablized.
+# After getting any shell on netcat. just hit alt+s and wait for a few seconds and shell will be stablized.
 
 sleep 1.5;
 
